@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.11.0",
+    "@tensorflow/tfjs-node": "^3.11.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "pandas-js": "^0.2.4"
+  }
+}
